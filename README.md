@@ -19,9 +19,9 @@ Um bot de Discord feito para servidores de apostas. O mesmo criará um canal par
 ## 📚 Dependências
 Nome | Versão | Download |
 --------- | ------ | ------ |
-[discord.js](https://www.npmjs.com/package/discord.js) | 13.3.1 | npm i discord.js |
-[express](https://www.npmjs.com/package/express) | 4.17.2 | npm i express |
-[quick.db](https://www.npmjs.com/package/quick.db) | 7.1.3 | npm i quick.db |
+[discord.js](https://www.npmjs.com/package/discord.js) | 13.3.1 | npm i discord.js@13.3.1 |
+[express](https://www.npmjs.com/package/express) | 4.17.2 | npm i express@4.17.2 |
+[quick.db](https://www.npmjs.com/package/quick.db) | 7.1.3 | npm i quick.db@7.1.3 |
 
 <a name="command"></a>
 ## 📕 Comando
